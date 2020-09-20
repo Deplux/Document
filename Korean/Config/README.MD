@@ -5,7 +5,7 @@
  * [Deplux NAZE](./../NAZE/README.MD)
 
 ### 문법
-config.json은 Deplux 호스팅을 더욱 더 전문적으로 활용할 수 있도록 해주는 설정 파일입니다.   
+`config.json`은 Deplux 호스팅을 더욱 더 전문적으로 활용할 수 있도록 해주는 설정 파일입니다.   
 아래와 같이 사용할 수 있습니다 :
 ```json
 {
